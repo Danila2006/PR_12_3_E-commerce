@@ -2,8 +2,6 @@
 
 Simple Flutter e-commerce demo with CI/CD.
 
-![CI](https://github/workflows/flutter_ci.yml)
-
 ## Setup
 ```bash
 flutter pub get
